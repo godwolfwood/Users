@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 960px;
+    height: 100%;
+}
+table{
+    border-collapse: collapse;
+}
+table thead{
+    border: 5px solid black;
+}
+table thead td{
+    padding: 5px 10px 5px 2px;
+}
+form,
+h1,
+hr{
+    width: 35%;
+}
+form{
+    text-align: right;
+}
+form label{
+    text-align: right;
+    margin-left: 15%;
+}
